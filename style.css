@@ -31,6 +31,7 @@
 @media(max-width:827px){
     .container{
         flex-direction: column;
+        overflow: hidden;
     }
     .stats {
         margin: 20px 10px;
