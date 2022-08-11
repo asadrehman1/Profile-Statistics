@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    text-align: center;
+    background-color: yellow;
+    font-family: cursive;
+}
+.stats{
+    border:1px dotted green;
+    padding: 20px 25px;
+    margin: 10px 10px;
+    position: relative;
+    min-width: 200px;
+    height:100px
+}
+.stats i{
+    position: absolute;
+    top:-18%;
+    left:50%;
+    transform: translateX(-50%);
+}
+.counter{
+  font-size: 50px;
+  color:green
+}
+.stats h4{
+   margin: 10px 0;
+}
