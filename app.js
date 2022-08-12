@@ -36,7 +36,7 @@ for(let i=0;i<counters.length;i++){
 
 //     if(count < dataCeil){
 //         elem.innerText=count;
-//         setTimeout(func,1000)
+//         setTimeout(func,50)
 //         }
 //     else{
 //         elem.innerText=dataCeil;
